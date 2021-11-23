@@ -1,0 +1,29 @@
+# learning-git-2
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="utf-8">
+   <title>learning-git-2</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>wlazl kotek na plotek</h1>
+    <p>Wlazł kotek na płotek
+    i mruga,
+    ładna to piosenka,
+    nie długa.
+    Nie długa, nie krótka,
+    lecz w sam raz,
+    zaśpiewaj koteczku,
+    jeszcze raz.
+    
+    Wlazł kotek na płotek
+    i mruga, i mruga,
+    ładna to piosenka,
+    nie długa, nie długa.
+    Nie długa, nie krótka,
+    lecz w sam raz, lecz w sam raz,
+    zaśpiewaj koteczku,
+    jeszcze raz, jeszcze raz.</p>
+</body>
+</html>
